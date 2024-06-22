@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game App</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="deal">Deal</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="war">WAR</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="start_again">Start Again</string>
+    <string name="score_0">Score : 0</string>
+    <string name="A">TODO</string>
+    <string name="B">TODO</string>
+</resources>
